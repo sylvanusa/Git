@@ -68,7 +68,7 @@ const LeftButton = styled.div`
   align-items: center;
   border-radius: 100px;
   opacity: 0.85;
-  text-transformation: uppercase;
+  text-transform: uppercase;
   font-size: 12px;
   cursor: pointer;
   margin: 8px;
